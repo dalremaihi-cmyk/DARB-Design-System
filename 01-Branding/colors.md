@@ -57,3 +57,7 @@ The colors will be created as reusable Figma variables.
 ## 7. Approval Status
 
 Proposed palette – pending team review and approval.
+
+## 8. Figma Reference
+
+[DARB Brand Color Board]https://www.figma.com/make/BIYxNN9y33ZJgcfFlb85mi/DARB-Brand-Color-Board?t=Zpv5yLs1ZSWhyEKS-20&fullscreen=1 
