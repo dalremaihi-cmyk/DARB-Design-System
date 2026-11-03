@@ -4,46 +4,34 @@
 Haya
 
 ## Overview
-This section contains reusable buttons and form components
-used throughout the DARB application.
+Research and design reusable buttons and form components
+for the DARB application.
 
-## Components
+## Tasks
 
-### 1. Buttons
-- Primary Button
-- Secondary Button
-- Outline Button
-- Disabled Button
-- Loading Button
+### Buttons
+- Identify the button types needed in DARB.
+- Design primary and secondary buttons.
+- Design different button states.
+- Ensure consistency across the application.
 
-### 2. Form Elements
-- Text Input
-- Search Bar
-- Dropdown Menu
-- Checkbox
-- Radio Button
-- Date Picker
-
-### 3. Component States
-- Default
-- Hover
-- Focus
-- Disabled
-- Error
-- Loading
-
-## Design Guidelines
-- Follow the DARB color palette.
-- Use consistent button sizes.
-- Maintain consistent spacing.
-- Use rounded corners.
-- Ensure components are accessible.
+### Form Components
+- Design text input fields.
+- Design search bars.
+- Design dropdown menus.
+- Design checkboxes and radio buttons.
+- Design date selection components.
+- Consider validation and error states.
 
 ## Deliverables
+- Research and component requirements.
 - Reusable Figma components.
-- Component variants.
-- Design documentation.
-- Screenshots of components.
+- Component variations and states.
+- Component documentation.
+- Screenshots of the final work.
+
+## Folder
+03-Components/
 
 ## Figma Link
 To be added.
