@@ -4,44 +4,41 @@
 Dana
 
 ## Overview
-This section contains reusable UI components
+Research and design reusable UI components
 for the student side of the DARB application.
 
-## Components
+## Tasks
 
-### 1. Opportunity Components
-- Opportunity Card
-- Recommended Opportunity Card
-- Opportunity Category Tags
-- Opportunity Details
+### Opportunity Components
+- Identify the information needed in opportunity cards.
+- Design opportunity cards.
+- Design recommended opportunity components.
+- Design opportunity category components.
 
-### 2. Student Profile
-- Student Profile Card
-- Skills Tags
-- Academic Information
+### Student Components
+- Design student profile components.
+- Design skills and interests components.
+- Design saved opportunity components.
 
-### 3. Application Components
-- Application Status Badge
-- Application Tracking Card
-- Bookmark Button
-- Deadline Reminder
+### Application Components
+- Design application status indicators.
+- Design application tracking components.
+- Design deadline reminder components.
 
-### 4. AI Components
-- AI Opportunity Recommendations
-- AI Matching Indicator
-- Suggested Skills
-
-## Design Guidelines
-- Use consistent card layouts.
-- Follow the DARB color palette.
-- Make opportunity information clear.
-- Maintain consistent spacing.
+### AI Components
+- Identify suitable components for AI recommendations.
+- Design AI opportunity recommendation components.
+- Design suggested skills components.
 
 ## Deliverables
+- Research and component requirements.
 - Reusable Figma components.
-- Component variants.
-- Design documentation.
-- Screenshots of components.
+- Component variations.
+- Component documentation.
+- Screenshots of the final work.
+
+## Folder
+04-Student-Components/
 
 ## Figma Link
 To be added.
