@@ -30,7 +30,8 @@ This repository contains the design system documentation, design guidelines, and
 - GitHub Desktop – Team Collaboration
 
 ## Figma Design Link
-To be added.
+
+[DARB Brand Color Board]https://www.figma.com/make/BIYxNN9y33ZJgcfFlb85mi/DARB-Brand-Color-Board?t=Zpv5yLs1ZSWhyEKS-20&fullscreen=1 
 
 ## Project Goal
 To create a consistent, reusable, and accessible design system for the DARB platform.
