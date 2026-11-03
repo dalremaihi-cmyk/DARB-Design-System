@@ -4,39 +4,36 @@
 Jawaher
 
 ## Overview
-This section contains reusable UI components
+Research and design reusable UI components
 for the instructor side of the DARB application.
 
-## Components
+## Tasks
 
-### 1. Opportunity Management
-- Create Opportunity Card
-- Edit Opportunity Component
-- Manage Opportunity Card
-- Opportunity Status Badge
+### Opportunity Management
+- Identify the instructor's requirements.
+- Design opportunity creation components.
+- Design opportunity management components.
+- Design opportunity editing components.
 
-### 2. Applicant Management
-- Applicant Profile Card
-- Applicant Status Indicator
-- Application Review Card
+### Applicant Management
+- Design applicant profile cards.
+- Design application status indicators.
+- Design application review components.
 
-### 3. Student Search
-- Student Search Bar
-- Student Filters
-- Student Information Card
-
-## Design Guidelines
-- Use consistent card layouts.
-- Follow the DARB color palette.
-- Keep information organized.
-- Make actions easy to understand.
-- Maintain consistent spacing.
+### Student Management
+- Design student search components.
+- Design student filtering components.
+- Design student information components.
 
 ## Deliverables
+- Research and component requirements.
 - Reusable Figma components.
-- Component variants.
-- Design documentation.
-- Screenshots of components.
+- Component variations.
+- Component documentation.
+- Screenshots of the final work.
+
+## Folder
+05-Instructor-Components/
 
 ## Figma Link
 To be added.
