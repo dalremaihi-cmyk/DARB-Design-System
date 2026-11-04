@@ -10,7 +10,7 @@ This repository contains the design system documentation, design guidelines, and
 | Member | Responsibility |
 |---|---|
 | Dana Alremaihi | Colors & Branding |
-| Lolwa | Typography & Icons |
+| Lolwa Al-Hemaidi | Typography & Icons |
 | Haya | Buttons & Forms |
 | Dana | Student Components |
 | Jawaher | Instructor Components & Integration |
