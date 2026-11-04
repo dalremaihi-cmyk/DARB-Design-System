@@ -164,4 +164,5 @@ The components are designed to be reusable across different screens of the appli
 - Student UI components for DARB.pdf
 
 ## Figma Link
-https://www.figma.com/design/RVLhXVfrgAPKWt2lkrfoAj/Untitled?node-id=0-1&t=e9iPnw5EXhf23g4D-1
+[ DARB Student Components](https://www.figma.com/proto/RVLhXVfrgAPKWt2lkrfoAj/Untitled?node-id=3-31&p=f&t=2lapdV27pyfF4fmb-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A31
+)
