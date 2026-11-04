@@ -178,7 +178,7 @@ for the DARB application.
 | Disabled | `#F6F8FA` | `#98A4B0` | `1.5px #EDF1F4` | — | not-allowed |
 | Error | `#FCEDEC` | `#202B35` | `1.5px #B42318` | — | pointer |
 
-# Date Selection — 6.2 Calendar Day Cell State Table
+# Date Selection — Calendar Day Cell State Table
 
 | State | Background | Text | Border | Outline | Cursor |
 |-------|------------|------|--------|---------|--------|
@@ -201,7 +201,7 @@ for the DARB application.
 | Success (input) | `#FFFFFF` | `#202B35` | `1.5px #176B6B` | — | text |
 | Success (helper) | — | `#176B6B` | none | — | default |
 
-# 7.3 DARB-Specific Rules
+# DARB-Specific Rules
 
 | Field | Rule | Message |
 |-------|------|---------|
