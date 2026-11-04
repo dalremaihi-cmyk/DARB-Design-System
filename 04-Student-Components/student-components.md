@@ -72,6 +72,7 @@ Document each component's name, properties, variants, usage, and design rules. K
 ## Files
 - `Research-and-Requirements.pdf`
 - `Component-Documentation.pdf`
+-  'DARB Student Components.md'
 
 
 ## Figma Link
