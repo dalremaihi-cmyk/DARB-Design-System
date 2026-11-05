@@ -108,4 +108,4 @@ Final Screenshots: High-resolution screenshots showcasing component boards, vari
     * student-filtering-components.png
 
 ## Figma Link
-To be added.
+[DARB Instructor Components – Figma File](https://www.figma.com/design/9DfOvpbdUNB3W9ZLMQfpbZ/DARB-Instructor-Components?t=dJLcUCpaSNgkBNJa-1)
