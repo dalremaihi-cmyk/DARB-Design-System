@@ -53,6 +53,19 @@ Student Information & Talent Directory Components:
 
 Design table views and roster cards displaying candidate summary cards for candidate discovery across the department.
 
+## 3. Component Hierarchy & Status Indicators
+
+### Application Status Palette & Icons
+
+| Status Pill | Token / HEX | Icon | Usage / Context |
+| :--- | :--- | :--- | :--- |
+| **Submitted / New** | `brand.secondary` (`#176B6B`) | `Icon/Actions/document` | Newly received applications pending evaluation |
+| **Under Review** | `status.warning` (`#9A6500`) | `Icon/Status/info` | Currently being evaluated by faculty/committee |
+| **Shortlisted / Interview** | `brand.primary` (`#202B35`) | `Icon/Opportunities/team` | Candidates selected for secondary screening |
+| **Accepted / Approved** | `status.success` (`#247A4B`) | `Icon/Status/success` | Student officially accepted into the opportunity |
+| **Rejected / Declined** | `status.error` (`#B42318`) | `Icon/Status/error` | Application declined |
+| **Closed / Archived** | `neutral.text-secondary` (`#5B6775`) | `Icon/Actions/close` | Opportunity no longer accepting submissions |
+
 ## Deliverables
 - Research and component requirements.
 - Reusable Figma components.
