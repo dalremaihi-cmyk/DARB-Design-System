@@ -28,14 +28,30 @@ Opportunity Editing Components:
 Design inline quick-edit modals and full edit page forms with state indicators: Published (Live), Draft, Closed/Expired, and Archived.
 
 ### Applicant Management
-- Design applicant profile cards.
-- Design application status indicators.
-- Design application review components.
+Applicant Profile Cards & Drawer Views:
+
+Design compact and detailed applicant cards displaying student photo/initials, name, major, academic year, GPA, attached resume link, and submission timestamp.
+
+Application Status Indicators & Pills:
+
+Create standardized status pills: Draft, Submitted, Under Review, Shortlisted, Interview Scheduled, Accepted, Rejected, and Withdrawn. Each pill pairs a distinct background color, outline icon, and text label.
+
+Application Review Components:
+
+Design split-view review screens: student submission preview on the left/right, and evaluation/feedback forms, scorecards, and action buttons (Approve, Reject, Request Info) on the side panel.
 
 ### Student Management
-- Design student search components.
-- Design student filtering components.
-- Design student information components.
+Student Search Components:
+
+Create search bars with autocomplete major tags, keyword highlights, and recent search history dropdowns.
+
+Student Filtering Components:
+
+Design filter panels and popovers supporting filter criteria: Major/Department, Academic Year (Freshman–Senior), Skills, Minimum GPA, and Application Status. Includes filter active/cleared states and badge counters.
+
+Student Information & Talent Directory Components:
+
+Design table views and roster cards displaying candidate summary cards for candidate discovery across the department.
 
 ## Deliverables
 - Research and component requirements.
