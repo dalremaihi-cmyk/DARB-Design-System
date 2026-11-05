@@ -98,14 +98,14 @@ Reusable Figma Components: Clean Figma library featuring Auto Layout components 
 Final Screenshots: High-resolution screenshots showcasing component boards, variant sets, and screen implementations.
 
 ## Folder
-* `05-Instructor-Components/`
-  * `Research-and-Requirements.pdf`
-  * `Component-Documentation.pdf`
-  * `DARB Instructor Components.md`
-  * `Screenshots/`
-    * `instructor-opportunity-components.png`
-    * `applicant-management-components.png`
-    * `student-filtering-components.png`
+* 05-Instructor-Components/
+  * Research-and-Requirements.pdf
+  * Component-Documentation.pdf
+  * DARB Instructor Components.md
+  * Screenshots/
+    * instructor-opportunity-components.png
+    * applicant-management-components.png
+    * student-filtering-components.png
 
 ## Figma Link
 To be added.
