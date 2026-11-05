@@ -75,16 +75,37 @@ Interactive Touch Targets: Ensure all buttons, status drop-downs, and table acti
 
 Data Accessibility: Never convey status by color alone; pair every status pill with an explicit text label and icon component.
 
+### Documentation & Open Items
+**Documentation:**
+Full component properties, Auto Layout configurations, component variants, and variant matrices are logged in Component-Documentation.pdf.
+
+**Open Items for Team Review:**
+
+Need team decision on adding a dedicated "Export to CSV/Excel" icon variant for applicant roster management.
+
+Review whether Shortlisted status needs a unique brand color token to stand out from default primary dark navy buttons.
+
 
 ## Deliverables
-- Research and component requirements.
-- Reusable Figma components.
-- Component variations.
-- Component documentation.
-- Screenshots of the final work.
+Research & Requirements (Research-and-Requirements.pdf): Defines instructor requirements, administrative workflows, and component specifications.
+
+Component Documentation (Component-Documentation.pdf): Details component names, variant parameters, Auto Layout specs, and usage guidelines.
+
+DARB Instructor Components Summary (DARB Instructor Components.md): Complete Markdown reference for the repository.
+
+Reusable Figma Components: Clean Figma library featuring Auto Layout components with properties, interactive states, and LTR/RTL variants.
+
+Final Screenshots: High-resolution screenshots showcasing component boards, variant sets, and screen implementations.
 
 ## Folder
 05-Instructor-Components/
+├── Research-and-Requirements.pdf
+├── Component-Documentation.pdf
+├── DARB Instructor Components.md
+└── Screenshots/
+    ├── instructor-opportunity-components.png
+    ├── applicant-management-components.png
+    └── student-filtering-components.png
 
 ## Figma Link
 To be added.
