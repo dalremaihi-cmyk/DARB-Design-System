@@ -53,7 +53,7 @@ Student Information & Talent Directory Components:
 
 Design table views and roster cards displaying candidate summary cards for candidate discovery across the department.
 
-## 3. Component Hierarchy & Status Indicators
+## Component Hierarchy & Status Indicators
 
 ### Application Status Palette & Icons
 
