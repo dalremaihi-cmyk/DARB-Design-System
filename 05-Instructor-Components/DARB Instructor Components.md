@@ -99,8 +99,8 @@ Final Screenshots: High-resolution screenshots showcasing component boards, vari
 
 ## Folder
 * 05-Instructor-Components/
-  * Research-and-Requirements.pdf
-  * Component-Documentation.pdf
+  * Research-and-Requirements.md
+  * Component-Documentation.md
   * DARB Instructor Components.md
   * Screenshots/
     * instructor-opportunity-components.png
